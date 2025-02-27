@@ -65,3 +65,27 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+.note {
+    position:relative;
+    background-color: Yellow;
+    margin: 0;
+    width: 100vw;
+}
+.note-text {
+    position:relative;
+    white-space: nowrap;
+    font-size: 15px;
+    font-weight: bold;
+    animation: moveRight 10s linear infinite;
+
+}
+
+@keyframes moveRight {
+    from {
+        left: 0;
+    }
+    to {
+        left: 100%;
+    }
+}

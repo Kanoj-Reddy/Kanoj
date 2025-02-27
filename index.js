@@ -2,19 +2,24 @@ let companies = [
     {
         companyName: "SODEXO INC",
         location: "Kansas City, MO",
-        timePeriod: "Nov 2024 - Present",
+        timePeriod: "Nov 2024 - Present (4 months and counting)",
         role: "Business Operations Data Intern",
         description: [
-            "Conduct data collection and cleansing to ensure accuracy and compliance.",
-            "Transform raw data into actionable insights for small-scale analysis, supporting informed decision making.",
-            "Collaborate with employees and management to streamline data workflows and improve operational efficiency."
-        ]
+            "Performed data acquisition, cleaning, and validation, ensuring accuracy in reports used for food preparation, planning, raw material procurement, and workforce analysis.",
+  "Collected and analyzed inventory data, tracking weekly raw material usage across 5+ departments, helping optimize stock management and reduce waste by 15%.",
+  "Entered and maintained end-of-day sales reports in the financial portal, enabling leadership to access real-time revenue insights and make faster budget decisions.",
+  "Assisted in onboarding 50+ new hires, verifying personal details and explaining unit policies, reducing onboarding time from ~1 hour to ~10 minutes (85% time savings).",
+  "Managed IT setup for 10+ workstations, configuring computers, printers, and monitors, and installing necessary drivers based on team requirements.",
+  "Coordinated group visits for ~1,000 guests in the spring semester, ensuring proper voucher distribution and acting as a liaison between visitors and the operations team, streamlining crowd management efficiency.",
+  "Maintained cash ledger entries and took accountability in the supervisor’s absence, reconciling ~$10,000 in transactions daily, ensuring 100% financial accuracy.",
+  "Collaborated with 200+ employees, gathering and managing operational data to improve workflow efficiency and decision-making."
+]
     },
     {
         companyName: "BUNCHA INC",
         location: "Minneapolis, MN",
-        timePeriod: "June 2024 - Aug 2024",
-        role: "On-field Software Engineer",
+        timePeriod: "Jun 2024 - Aug 2024(2 months Internship)",
+        role: "Software Engineer II",
         description: [
             "Analyzed client needs and resolved bugs for ops and marketing challenges.",
             "Conducted discussions to gather insights and implemented targeted improvements.",
